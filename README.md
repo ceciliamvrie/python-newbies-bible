@@ -1,4 +1,4 @@
-# python-newbies-bible
+# Welcome to the Python Newbies Bible
 Here is a descriptive list of all free (or low costing) resources for beginning and intermediate python learners who wish to carry what whas once just a hobby over to the next level. 
 
 Here, I will list acouple of useful resources and group them by the skillsets of which you will aquire from them. 
