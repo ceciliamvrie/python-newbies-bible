@@ -1,10 +1,8 @@
 # Python's Newbies Bible
-Here is a descriptive list of all free (or low costing) resources for beginning and intermediate python learners who wish to carry what whas once just a hobby over to the next level. 
+For all you language-learning open-sourcers, here is a descriptive list of all free resources needed for beginning programmers to level-up their Python skills through the most efficient way possible, according to myself at least.
+I have ordered these by the level of skillsets of which they teach you, as well as how efficient they are at providing you the information you need in order to have the most optimal learning experience. 
 
-Here, I will list acouple of useful resources and group them by the skillsets of which you will aquire from them. 
-Since time is obviously going to be more valuable than the money, I will order these resources from, in my opinion at least, the most efficient to the least efficient. 
-
-Alright, let us go!
+If you're still here to give my advice a try, let's go!
 
 ### Genisus: In the Beginning
 If you are completely new to programming, here's a list of resources guaranteed to get you set and going on your journey. 
